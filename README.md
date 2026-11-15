@@ -1,3 +1,29 @@
+# mcp-chrome
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 Chrome 扩展的 MCP Server，把浏览器能力开放给 AI 助手。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Chrome MCP Server 🚀
 
 [![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome)](https://img.shields.io/github/stars/hangwin/mcp-chrome)
